@@ -1,0 +1,10 @@
+### Análisis Descriptivo y Diagnóstico del Tráfico Vehicular
+
+1. **Congestión por Hora:**
+   - Se observa un mayor nivel de congestión en las horas pico.
+2. **Efecto del Clima:**
+   - Las condiciones climáticas adversas afectan la congestión.
+3. **Relación Velocidad-Congestión:**
+   - Existe una relación inversa entre la velocidad promedio y la congestión.
+
+Se incluyen gráficos con estos hallazgos.
